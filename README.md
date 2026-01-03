@@ -74,9 +74,9 @@ lib/
   <img src="app%20screens/logo/SNAG-23110317473900.png" width="300" alt="Project Logo">
 </p>
 
-| Authentication | Patient Dashboard | Doctor Interface |
-|:---:|:---:|:---:|
-| <img src="app%20screens/auth/SNAG-23110423082100.png" width="200" alt="Login Screen"> | <img src="app%20screens/patient/SNAG-23110423084300.png" width="200" alt="Patient Home"> | <img src="app%20screens/doctors/SNAG-23110423084000.png" width="200" alt="Doctor Dashboard"> |
+| Splash Screen | Register Screen |
+|:---:|:---:|
+| <img src="app%20screens/auth/SNAG-23110423082100.png" width="200" alt="Login Screen"> | <img src="app%20screens/patient/SNAG-23110423084300.png" width="200" alt="Patient Home">  |
 
 ---
 
@@ -85,7 +85,7 @@ lib/
 1. **Prerequisites**: Ensure you have [Flutter](https://docs.flutter.dev/get-started/install) installed on your machine.
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/MahmouddSalama/elderly_assistant.git
+   git clone https://github.com/MahmouddSalama/elderly_assistant-app.git
    ```
 3. **Get Dependencies**:
    ```bash
@@ -114,8 +114,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 **Mahmoud Salama** - [GitHub Profile](https://github.com/MahmouddSalama)  
-Project Link: [https://github.com/MahmouddSalama/elderly_assistant](https://github.com/MahmouddSalama/elderly_assistant)
+Project Link: [https://github.com/MahmouddSalama/elderly_assistant-app](https://github.com/MahmouddSalama/elderly_assistant-app)
 
 ---
 *Developed by Mahmoud Salama*
+
 
