@@ -1,0 +1,26 @@
+Functional Requirements for Patient:
+•	The patient should be able to register
+•	The patient should be able to log in
+•	The patient should be able to reset the password
+•	The patient should be able to logout
+•	The patient should be able to search for doctors by specialist 
+•	The patient should be able to view doctors
+•	The patient should be able to view medication appointment 
+•	The patient should be able to chat with doctors
+•	The patient should be able to rechieve notification for medication appointment
+
+3.3.2 Functional Requirements for Doctor:
+•	The doctor should be able to register
+•	The doctor should be able to login
+•	The doctor should be able to rest the password
+•	The doctor should be able to logout
+•	The doctor should be able to view the patient
+•	The doctor should be able to chat with patients
+•	The doctor should be able to add medication for patients
+
+3.3.3 Functional Requirements for Admin:
+•	The admin should be able to login
+•	The admin should be able to reset the password
+•	The admin should be able to logout
+•	The admin should be able to view or block patients
+•	The admin should be able to view or block doctors

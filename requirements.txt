@@ -1,0 +1,9 @@
+# Flutter Core Dependencies
+flutter: ^3.1.2  # Derived from sdk version in pubspec.yaml
+
+# External Libraries
+cupertino_icons==1.0.6
+modal_progress_hud_nsn==0.4.0
+
+# Dev Dependencies
+flutter_lints==2.0.3
